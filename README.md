@@ -13,7 +13,7 @@ Antes da TI, fui presidente de duas empresas juniores e diretora administrativo-
 ## 📌 Projetos em destaque
 
 - **Dashboard do setor florestal (TCC):** painel interativo em R/Shiny com dados da PNAD *(em breve)*
-- **[Gerenciador de Tarefas](https://github.com/acarolinaambrizi/CRUD-de-tarefas):** app To-Do em Next.js, desenvolvido com IA
+- **[Gerenciador de Tarefas](https://github.com/acarolinaambrizi/CRUD-de-tarefas):** app To-Do com login, em Next.js e Supabase, desenvolvido com IA · [ver online](https://to-do-final-phi.vercel.app)
 - **[Site fictício](https://github.com/acarolinaambrizi/trabalho-final-front-end-1):** trabalho final de Front-end em HTML e CSS
 
 ## 📫 Contato
